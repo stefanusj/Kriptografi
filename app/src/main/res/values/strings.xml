@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kriptografi</string>
+    <string name="plaintext">Plaintext</string>
+    <string name="chipertext">Chipertext</string>
+
+    <string name="prompt_1">Text Copied</string>
+</resources>
